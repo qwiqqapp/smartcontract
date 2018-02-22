@@ -7,5 +7,5 @@ Qwiqq Token "QIQ" is compliant with the ERC20 standard.
 Token Sale Contract:
 <li>QIQCrowdsale.sol - Qwiqq Token Sale Contract</li>
 <li>qiq_crowdsale.js - Qwiqq Token Sale Contract ABI</li>
-# <h2>Development</h2>
+<h2>Development</h2>
 All code is hand crafted with ❤️ by QWIQQ - Clicktroy (SG) PTE LTD
